@@ -1,15 +1,8 @@
-# If you have OpenSSL installed, we recommend updating
-# the following line to use "https"
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
 group :development do
-  gem 'rake', '~>10.5'
-  gem 'sass', '~>3.4'
-  gem 'jekyll', '~> 3'
-  gem 'jekyll-paginate', group: [:jekyll_plugins]
-  gem 'pygments.rb', group: [:jekyll_plugins]
-  gem 'jekyll-compose', group: [:jekyll_plugins]
-  gem 'kramdown', group: [:jekyll_plugins]
-  gem 'json', '~> 2'
-  gem 'wdm', '>= 0.1.0'
+  gem 'jekyll', '3.4.0'
+  gem 'jekyll-last-modified-at'
+  gem 'match_regex'
+  gem 'stringex'
 end
