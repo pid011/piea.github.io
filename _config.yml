@@ -1,8 +1,8 @@
-name: Alpha
-description: Alphs template for Jekyll
-baseurl: '/Alpha-Jekyll-Theme'
+name: PIEA
+description: The MiNET plugins development organization.
+baseurl: ''
 
-url: "http://localhost:4000"
+url: "https://piea.github.io/"
 
 paginate: 10
 
