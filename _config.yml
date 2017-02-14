@@ -2,6 +2,9 @@ name: PIEA
 description: The MiNET plugins development organization.
 baseurl: ''
 
+disqus_shortname: "PIEA"
+disqus_site_shortname: "piea"
+
 url: "https://piea.github.io/"
 
 paginate: 10

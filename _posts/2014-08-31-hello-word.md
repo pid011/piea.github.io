@@ -1,6 +1,7 @@
 ---
 title: Ullamco Laboris minim veniam
 layout: post
+comments: true
 ---
 
 ![]({{ site.baseurl }}/assets/images/pic03.jpg)
