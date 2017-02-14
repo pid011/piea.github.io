@@ -1,17 +1,9 @@
-# Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: '/Alpha-Jekyll-Theme'
 
-# About/contact
-author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+url: "http://localhost:4000"
 
-# Gems
-gems:
-  - jekyll-paginate
+paginate: 10
 
-#Others
-markdown: kramdown
+gems: [jekyll-paginate]
