@@ -1,12 +1,14 @@
-name: PIEA
-description: The MiNET plugins development organization.
-baseurl: ''
+name        : PIEA
+description : The MiNET plugins development organization.
+baseurl     : ''
+markdown    : kramdown
+highlighter : pygments
 
-disqus_shortname: "PIEA"
-disqus_site_shortname: "piea"
+disqus_shortname        : "PIEA"
+disqus_site_shortname   : "piea"
 
 url: "https://piea.github.io/"
 
-paginate: 10
+paginate: 3
 
 gems: [jekyll-paginate]
