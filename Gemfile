@@ -1,8 +1,7 @@
 source 'https://rubygems.org'
+gemspec
 
-group :development do
-  gem 'jekyll', '3.4.0'
-  gem 'jekyll-last-modified-at'
-  gem 'match_regex'
-  gem 'stringex'
-end
+gem 'jekyll'
+gem 'jekyll-paginate'
+gem 'kramdown'
+gem 'pygments.rb'
