@@ -15,27 +15,30 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: PIEA
-description: "The MiNET plugins development organization."
-keywords: "MiNET, Plugins"
-url: https://piea.github.io/
-#baseurl: "/end2end"
-baseurl: ""
+title: end2end
+description: "A free Jekyll theme for download"
+keywords: "Jekyll, theme, free, download, SEO, blog, web"
+url: http://nandomoreira.me
+baseurl: "/end2end"
+# baseurl: ""
 
 # google_analytics: UA-52446115-1
-repo: https://github.com/PIEA
-disqus_shortname: "PIEA"
-disqus_site_shortname: "PIEA"
+repo: http://github.com/nandomoreirame/end2end
+disqus_shortname: "nandothemes"
+disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name      : PIEA
-  job       : The MiNET plugins development organization.
-  bio       : "---------"
-  thumb     : /images/piea_logo.jpg
-  email     : deet1022@gmail.com
-  url       : https://piea.github.io
-  github    : https://github.com/PIEA
+  name      : Fernando Moreira
+  job       : Frontend Engineer
+  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  thumb     : /images/author.jpg
+  email     : nandomoreira.me@gmail.com
+  url       : http://nandomoreira.me
+  github    : http://github.com/nandomoreirame
+  twitter   : http://twitter.com/nandomoreirame
+  facebook  : http://facebook.com/fernando.dev
+  linkedin  : http://linkedin.com/in/nandomoreirame
 
 # navbar pages
 navbar:
