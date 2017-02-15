@@ -6,8 +6,9 @@ paginate:     3
 
 # About/contact
 author:
-  name:       PIEA
-  url:        https://piea.github.io
+  name          : PIEA
+  url           : https://github.com/PIEA
+  description   : The MiNET plugins development organization.
 
 # Gems
 gems:
@@ -15,7 +16,3 @@ gems:
 
 # Others
 markdown: kramdown
-
-# Disqus
-disqus_shortname        : "PIEA"
-disqus_site_shortname   : "piea"
