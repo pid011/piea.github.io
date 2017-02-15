@@ -32,8 +32,8 @@ comments: true    #If you don't want to use comments, change 'false'
 그 전에 포스트를 쓰는 도중 이미 누가 원격저장소에 커밋했을 수도 있으므로 `git pull`로 원격저장소로부터 안받은 커밋이 있는지 확인해야 합니다.
 
 ```
-$ git pull origin master
-
 $git commit -a -m "commit message"
+
+$ git pull origin master
 $git push origin master
 ```
