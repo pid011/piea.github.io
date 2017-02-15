@@ -1,17 +1,21 @@
 # Setup
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
+title:        PIEA
+tagline:      The MiNET plugins development organization.
 baseurl:      ""
-paginate:     1
+paginate:     3
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       PIEA
+  url:        https://piea.github.io
 
 # Gems
 gems:
   - jekyll-paginate
 
-#Others
+# Others
 markdown: kramdown
+
+# Disqus
+disqus_shortname        : "PIEA"
+disqus_site_shortname   : "piea"

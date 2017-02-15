@@ -1,10 +1,12 @@
 ---
-layout: default
-title:  "Welcome to Jekyll!"
-date:   2016-02-12 17:50:00
-categories: main
+layout: post
+title:  "테스트 글입니다."
+author: "Sepi"
+comments: true
 ---
 
+# 안녕하세요
+블라블라블라  
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
 

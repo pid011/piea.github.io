@@ -1,7 +1,25 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+<html lang="ko-kr">
 
-{{ content }}
+<head>
+    {% include head.html %}
+</head>
+
+<body>
+    {% include page-header.html %}
+    <section class="main-content">
+        <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <span class="post-meta">
+                <time class="post-date">{{ page.date | date_to_string }}</time>
+                <span class="post-author">by {{ page.author }}</span>
+            </span>
+        </header>
+        <hr>
+        {{ content }} 
+        {% include comments.html %} 
+        {% include page-footer.html %}
+    </section>
+</body>
+
+</html>
