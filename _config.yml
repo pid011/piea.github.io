@@ -1,8 +1,8 @@
 # Setup
-title:        PIEA
-tagline:      The MiNET plugins development organization.
-baseurl:      ""
-paginate:     3
+title     : PIEA
+tagline   : The MiNET plugins development organization.
+baseurl   : ""
+paginate  : 3
 
 # About/contact
 author:
