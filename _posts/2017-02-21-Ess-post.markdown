@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Essentials"
+author: "NLOG"
+comments: false
+---
+
+#Essentials
+
+미넷(MiNET)에 유용한 명령어/기능을 추가한다.
+만약에, 미넷에 기본 명령어가 추가된다면, PIEA팀원들은 매우 빡칠것이다.
+
+#TODO LIST
+
+지금은 에센셜 말고 없을건데... 히코노미(MiNET Economy API by Herb9)플러그인이나 개별로 제작해볼까..
