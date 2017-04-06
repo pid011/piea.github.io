@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Essentials"
-author: "NLOG"
+title:  "Chuhu"
+author: "BluePickaxe"
 comments: false
 ---
 #...<br>
