@@ -9,4 +9,4 @@ comments: true    #If you don't want to use comments, change 'false'
 PIEA가 생기고 나서 에센셜 프로젝트로 같이 개발도 했는데 이제는 거의 미넷에 손을 떼신 것 같습니다... ㅜㅜ  
 플러그인 개발은 다시 할지는 모르겠지만 우리 PIEA도 시들시들해지고 언젠가는 떠나야겠죠...?? ㅠㅠ  
 흐엉어어렁어어어언러ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ  
-![.](../assets/images/post_pic/일상76.gif)
+![.](https://github.com/PIEA/piea.github.io/raw/master/assets/images/post_pic/일상76.gif)
